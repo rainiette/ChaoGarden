@@ -15,13 +15,14 @@ Secondary Features:
 
 
 Phase 1: Core Mechanics
-
 Create a basic garden where Cream can walk around.
 Add placeholder Chao that can interact with the player.
 Focus on just one interaction (e.g., petting or feeding).
+
 Phase 2: Expand Features
 Add dressing-up mechanics for Chao.
 Include a basic mini-game (like a simple race or memory game).
+
 Phase 3: Polish
 Add unlockable characters.
 Improve visuals and animations.
